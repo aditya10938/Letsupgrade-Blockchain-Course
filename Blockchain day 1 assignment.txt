@@ -1,0 +1,29 @@
+Q1. What is your understanding of Blockchain ?
+
+Ans: A blockchain is a digital record of transactions.
+       The name comes from its structure, in which individual records, called blocks, are linked together in single list, called a chain. 
+       Each transaction added to a blockchain is validated by multiple computers on the Internet.
+
+Q2. What is the core problem blockchain trying to solve ?
+
+Ans: The goal of blockchain is to allow digital information to be recorded and distributed, but not edited.
+        Blockchain Addresses the Problem of Data Security and Trust by Making the Ledger Public.
+        Hardware and software errors are not the only data security issue.
+        The blockchain has to also protect itself from willful fraud and theft.
+
+Q3. What is the few features which blockchain will give you ?
+       
+Ans: We have a public distributed ledger, which works using a hashing encryption.
+        Every block has a hash value, which is the digital signature of the block.
+        All the transactions are approved and verified on the Blockchain network using a proof-of-work consensus algorithm.
+
+Q4. What all things does a block contain ?
+
+Ans:  ~ Block number   ~ Transaction records   ~ Previous Block Key   ~Mining key
+
+Q5. How is the verifiability of blockchain has been attained ?
+
+Ans:  Validated transactions are stored into a block and are sealt with a lock (hash).
+         This block becomes part of the blockchain when other computers in the network validate if the lock on the block is correct.
+         Now the transaction is part of the blockchain and can not be altered in any way
+
